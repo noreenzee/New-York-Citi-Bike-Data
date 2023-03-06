@@ -1,4 +1,6 @@
 # New-York-Citi-Bike-Data With Tableau
+![image](https://user-images.githubusercontent.com/112978144/223007059-1630dd27-7f2b-4609-bbf8-0c9d97124293.png)
+
 In this challenge assignment we used Tableau one of the most popular Data Visualization tool.
 # Overview of the Project
 Tableau provides data visualization professionals to have access to visualize data in graphical shape without stressing about reading and understanding code that is done by us in the backgroud. It is clear and easy to grasp data storage.
@@ -27,12 +29,18 @@ Then we create and style worksheets, dashboards, and stories in Tableau.
 * Visualization #5 -  The 'User Trips by Gender by Weekday' heatmap demonstrates the following points: most subscribers are male and account for the weekday activity, customers' gender are mostly unknown, and useage on the weekend is about evenly split between subscribers and customers.
 ![image](https://user-images.githubusercontent.com/112978144/223003805-5e4c2e4b-33c1-4415-a190-2bfd3512aa7f.png)
 
+* Visualization #6 - Overall 'Bike Utilization' shows that some bikes are used for many trips for many hours, while some other bikes are hardly used. More analysis is called for to assess whether there are some predictable patterns high- or low-use bikes usage in any particular time.
+
 --Then we add two of the graphs from inclass activities that includes Students Ultimate candy marks and Vehicles collisions and their visualization is as follow.
 
-* Visualization #6 - In the 'Ultimate Candy Marks' visualization it's cleary shows that users of chocolate flavor are higher than fruity one. Most Winpercent is about 84.18.
+* Visualization #7 - In the 'Ultimate Candy Marks' visualization it's cleary shows that users of chocolate flavor are higher than fruity one. Most Winpercent is about 84.18.
 
 ![image](https://user-images.githubusercontent.com/112978144/223003585-86d7ae84-463b-4013-bf5e-a6557e176f33.png)
 
 
-* Visualization #7 - In 'Vehicle Collisions' visualization we can see that dangerous hours when mostly cyclist injured are between 2 PM TO 11 PM and dangerous hours when most cyclist killed are different. In mornings 6 am and 8 am are highly dangerous and in after noon these hours are 5,6,7 and 11 pm.
+* Visualization #8 - In 'Vehicle Collisions' visualization we can see that dangerous hours when mostly cyclist injured are between 2 PM TO 11 PM and dangerous hours when most cyclist killed are different. In mornings 6 am and 8 am are highly dangerous and in after noon these hours are 5,6,7 and 11 pm.
 ![image](https://user-images.githubusercontent.com/112978144/223003512-c1c77ca6-649d-4151-aa72-86ae1b3c141a.png)
+# Summary of the Visualization
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The results of this visualization provides us an insight into the usage of bicycles in the NYC Citibike bike-sharing program. We can see the patterns of useage by time and by gender. Usage rates can now be predicted based on time of the day and location. Weekday useage is highly concentrated around the morning and afternoon . Weekend useage is about evenly spread through the day. There could be possibilities where further analysis can be performed. Firstly, as we have seen that the large majority of trips are 30 min or less, we can perform further analysis to compare by weekend trip durations to weekday trip durations or early morning trip duration and late night trip durations. We can also look further into the patterns of useage for the bicycles that see the heaviest use. We can also perform a visualization to determine if there are specific locations where mostly users want to ride or even don't want to ride at all. we can include weather data to check if weather conditions are affecting bike usage.
+
