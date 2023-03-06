@@ -44,3 +44,14 @@ Then we create and style worksheets, dashboards, and stories in Tableau.
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
 The results of this visualization provides us an insight into the usage of bicycles in the NYC Citibike bike-sharing program. We can see the patterns of useage by time and by gender. Usage rates can now be predicted based on time of the day and location. Weekday useage is highly concentrated around the morning and afternoon . Weekend useage is about evenly spread through the day. There could be possibilities where further analysis can be performed. Firstly, as we have seen that the large majority of trips are 30 min or less, we can perform further analysis to compare by weekend trip durations to weekday trip durations or early morning trip duration and late night trip durations. We can also look further into the patterns of useage for the bicycles that see the heaviest use. We can also perform a visualization to determine if there are specific locations where mostly users want to ride or even don't want to ride at all. we can include weather data to check if weather conditions are affecting bike usage.
 
+# Links To Each Tableau Graph, Dashboard and Story
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/CheckOutTimesForUsers/Sheet2?publish=yes")
+* [link to dashboard]("https://public.tableau.com/app/profile/noreen8693/viz/Checkouttimesbygender_16778813308670/Sheet2?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/TripsbyWeekdayforEachHour_16778976106660/Sheet2?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/TripsbyGenderWeekdayPerHour_16779132247560/Sheet2?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/UserTripsbyGenderbyWeekday_16779141905630/Sheet3?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/VehicleCollisions_16780509571370/Sheet8?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/candychocolatevsfruity/Sheet7?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/DashboardNycBikeChallenge/Dashboard1?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/StoryChallenge15Tableau/Story1?publish=yes")
+* [link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/noreen8693/viz/TripsbyWeekdayforEachHour_16778976106660/Sheet2?publish=yes")
