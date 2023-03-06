@@ -1,4 +1,4 @@
-# New-York-Citi-Bike-Data With Tableau
+# New-York-Citi-Bike-Data Using Tableau
 ![image](https://user-images.githubusercontent.com/112978144/223007059-1630dd27-7f2b-4609-bbf8-0c9d97124293.png)
 
 In this challenge assignment we used Tableau one of the most popular Data Visualization tool.
